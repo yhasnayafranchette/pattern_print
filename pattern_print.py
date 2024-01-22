@@ -7,5 +7,5 @@
 
 for number in range(6):
     for i in range(number):
-        print (number, "\n" )
-
+        print(number, end=" ")
+    print()
